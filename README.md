@@ -90,15 +90,6 @@ This will:
 * Store it in `disease_surveillance.db`
 
 ---
-
-### 6. Run the dashboard (optional)
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## Project Structure
 
 ```
