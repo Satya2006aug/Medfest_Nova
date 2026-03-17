@@ -121,4 +121,7 @@ country | disease | cases | deaths | year | source | alert
 
 ## Authors
 
-* Your Name
+* Likhita Muddamsetty
+* Vallari Jakileti
+* Satya Pranavi Vemula
+* Kundana Priya Muddireddy
